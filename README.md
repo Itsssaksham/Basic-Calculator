@@ -44,3 +44,14 @@ Updated value: 15<br>
 Enter operation number: 3 (Multiplication)<br>
 Enter the next value: 2<br>
 Updated value: 30
+
+🧠 Concepts Used (Good for interviews/GitHub viewers)
+- Loops and conditionals
+
+- Switch-case or if-else logic
+
+- User input handling
+
+- State persistence (current result reuse)
+
+- Command-line I/O
